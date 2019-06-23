@@ -15,4 +15,4 @@
 - Must be in it's own file
 
 ### Program.cs
--- Test your Fish and Dog classes by creating instances of the classes and accessing the properties and methods you created.
+- Test your Fish and Dog classes by creating instances of the classes and accessing the properties and methods you created.
